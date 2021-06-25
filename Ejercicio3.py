@@ -3,7 +3,7 @@
 nombre1=input("nombre 1: ")
 nombre2=input("nombre 2: ")
 if nombre1==nombre2:
-    print("Son tocayos")
+    print("Son Similares")
     print("Sigue asi bb tu puedes mi amor")
 elif nombre1!=nombre2:
     print("Son pendejos xd")
